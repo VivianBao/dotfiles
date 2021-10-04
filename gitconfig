@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vivianbao1009@gmail.com
+	name = Vivian Bow
